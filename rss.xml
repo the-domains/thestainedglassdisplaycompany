@@ -4,21 +4,21 @@
         <description><![CDATA[TheStainedGlassDisplayCompany]]></description>
         <link>https://thegrid.ai/thestainedglassdisplaycompany/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 17:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 17:28:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thestainedglassdisplaycompany/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nathanhague.com]]></title>
+            <description><![CDATA[<article><h1>nathanhague.com</h1><p>The Fitness Software Guy</p><img src="https://www.nathanhague.com/wp-content/uploads/2015/05/tech-slider.jpg"></article>]]></description>
+            <link>http://www.nathanhague.com/</link>
+            <guid isPermaLink="false">2ad40e69-fa43-4c9a-90b3-cc44885848c9</guid>
+            <pubDate>Mon, 23 Nov 2015 17:22:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/S0y67Hf.jpg">]]></description>
             <link>https://thegrid.ai/thestainedglassdisplaycompany/7360a5ca-bf19-403e-87c3-63b814503251/index.html</link>
             <guid isPermaLink="false">7360a5ca-bf19-403e-87c3-63b814503251</guid>
             <pubDate>Mon, 23 Nov 2015 17:21:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/thestainedglassdisplaycompany/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">08f3d8f9-0226-4165-addf-612a1ed70cbd</guid>
-            <pubDate>Mon, 23 Nov 2015 17:21:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ditchling Museum of Art + Craft: Museum of the Year 2014 finalist]]></title>
@@ -32,13 +32,6 @@
             <description><![CDATA[<img src="http://www.artfund.org/gallery/800x442/assets/what-we-do/art-weve-helped-buy/artwork/1992/william-morris-gallery/3659_2607.jpg">]]></description>
             <link>https://thegrid.ai/thestainedglassdisplaycompany/6f28e661-0dfb-4e8d-a0ed-a8935c8f6ca9/index.html</link>
             <guid isPermaLink="false">6f28e661-0dfb-4e8d-a0ed-a8935c8f6ca9</guid>
-            <pubDate>Mon, 23 Nov 2015 17:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Special Page]]></title>
-            <description><![CDATA[<article><h1>Special Page</h1><p>The joy of properly displayed stained glass</p></article>]]></description>
-            <link>https://thegrid.ai/thestainedglassdisplaycompany/special-page/index.html</link>
-            <guid isPermaLink="false">d127417a-0766-449d-8a03-735ed5b5eeea</guid>
             <pubDate>Mon, 23 Nov 2015 17:13:44 GMT</pubDate>
         </item>
     </channel>
