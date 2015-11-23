@@ -1,0 +1,28 @@
+name: TheStainedGlassDisplayCompany
+favicon: null
+layout_spectrum: 0.40617855777963996
+typography_spectrum: 0.49376679095439613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.487841188441962
+  lightness: 0.677109976997599
+  saturation: 0.30511707137338817
+  rhythmicContrast: 0.11555670527741313
+purpose: []
