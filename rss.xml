@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheStainedGlassDisplayCompany]]></title>
+        <description><![CDATA[TheStainedGlassDisplayCompany]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 17:13:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Special Page]]></title>
+            <description><![CDATA[<article><h1>Special Page</h1><p>The joy of properly displayed stained glass</p></article>]]></description>
+            <link>undefinedspecial-page/index.html</link>
+            <guid isPermaLink="false">d127417a-0766-449d-8a03-735ed5b5eeea</guid>
+            <pubDate>Mon, 23 Nov 2015 17:13:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
