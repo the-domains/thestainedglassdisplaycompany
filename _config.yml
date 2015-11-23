@@ -1,7 +1,7 @@
 name: TheStainedGlassDisplayCompany
 favicon: null
-layout_spectrum: 0.40617855777963996
-typography_spectrum: 0.49376679095439613
+layout_spectrum: 1
+typography_spectrum: 0.65485
 cta:
   domain: null
   bucket: null
