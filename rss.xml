@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TheStainedGlassDisplayCompany]]></title>
         <description><![CDATA[TheStainedGlassDisplayCompany]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thestainedglassdisplaycompany/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 17:13:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 17:13:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thestainedglassdisplaycompany/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.artfund.org/gallery/800x442/assets/what-we-do/art-weve-helped-buy/artwork/1992/william-morris-gallery/3659_2607.jpg">]]></description>
+            <link>https://thegrid.ai/thestainedglassdisplaycompany/6f28e661-0dfb-4e8d-a0ed-a8935c8f6ca9/index.html</link>
+            <guid isPermaLink="false">6f28e661-0dfb-4e8d-a0ed-a8935c8f6ca9</guid>
+            <pubDate>Mon, 23 Nov 2015 17:13:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Special Page]]></title>
             <description><![CDATA[<article><h1>Special Page</h1><p>The joy of properly displayed stained glass</p></article>]]></description>
-            <link>undefinedspecial-page/index.html</link>
+            <link>https://thegrid.ai/thestainedglassdisplaycompany/special-page/index.html</link>
             <guid isPermaLink="false">d127417a-0766-449d-8a03-735ed5b5eeea</guid>
             <pubDate>Mon, 23 Nov 2015 17:13:44 GMT</pubDate>
         </item>
